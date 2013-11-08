@@ -91,4 +91,4 @@ How do you choose a visual model that allows you to explore your data and discov
 - Example projects
 - Example research questions
 - Interesting Humanities problems related to each step
-
+- between prefabricated tools and programmatic approaches
