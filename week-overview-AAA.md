@@ -6,8 +6,8 @@
 data-oriented research, hypothesis, data types, static data, streaming data, real-time data
 
 ## Overview
-+ from objects as objects to objects as data points. 
-+ using data to construct narratives.
++ from objects as objects to objects as data points
++ using data to construct narratives
 + research workflow
 
 
@@ -47,7 +47,7 @@ data formats, storage, segmentation, identification, parsing, metadata, filterin
 mining, refining, representation, patterns, facets, aggregating, exploration, discovery, serendipity
 
 ### Overview
-+ mining for things interest: 
++ mining for interesting data 
 + building blocks for narratives
 + choosing a visual representation
 + refining data preparation 
@@ -72,5 +72,3 @@ algorithms, repeatability, interpretation
 ### Overview
 + research recipes and repetition
 + data interpretation and hermeneutics
-
-
