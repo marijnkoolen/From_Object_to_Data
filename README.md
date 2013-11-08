@@ -5,34 +5,32 @@ Course description From Object to Data
 
 ## Learning Objectives
 
-- knowledge of digital and programmatic concepts for working with data
-- insight in the relevance of data-oriented research for humanities disciplines
-- skills in structuring digital research around a research question in the form of a recipe
+- insight in how a shift in perspective on humanities material from objects as objects to objects as data points has an impact on humanities research.
+- insight in the relevance of data-oriented research for humanities disciplines.
+- knowledge of digital and programmatic concepts for working with humanities data.
+- skills in structuring digital research around a research question in the form of a recipe.
 
 ## Summary
 
 All humanities disciplines are confronted with more and more digital material. 
 This digital material can be studied as individual objects or descriptions of events, but from a digital perspecitive they can also be considered as data points. Digital methods allow researchers to study relations between objects form a different perspective and on a larger scale. 
 
-Material that is relevant for the study of history, visual arts, literature, media, theatre or religion 
-
-How can humanities researchers use digital data to support their research? What digital tools are at their disposal and can provide new perspectives and research questions? Following the Coding the Humanities course, this course looks at digital data sources and tools that are relevant to the humanities from a programmatic perspective. ...
+How can humanities researchers use digital data to support their research? What digital tools are at their disposal and how can these tools provide new perspectives and research questions? Following the Coding the Humanities course, this course looks at digital data sources and tools that are relevant to the humanities from a programmatic perspective. ...
 
 ## Weekly Overview
 
 ### Week 1: Objects as Data Points
 
-- Shifting perspective on humanities material from objects as objects to objects as data points
-- Using data to tell stories
+The shifting perspective on humanities material from objects as objects to objects as data points. Using data to construct narratives.
 - Introduction to 7 steps of data-oriented research. The 7 steps provide a workflow to organise your research approach in clearly defined and ordered steps, resulting in a research recipe.
 - Start working with the 7-step workflow
 - Step 0: defining your research, determining your research question
 - From research question to workflow, structuring research approach
-- Concepts: hypothesis, types of data (metadata, textual data, visual data, audio data), static, streaming and real-time data
+- Concepts: data-oriented research, hypothesis, types of data (text, sound, video and images as data, metadata), static, streaming and real-time data
 
 ### Week 2: Acquiring data
 
-- Focus on online sources of data. What data is available? What data is relevant to the research question?
+We focus on online sources of data. What data is available? What data is relevant to a particular research question?
 - Step 1 of 7: gathering data
 - Evaluating data sources and data sets. When is data appropriate? When is it representative?
 - Concepts: data objects, data formats, data dumps, APIs, queries, iteration, sampling
