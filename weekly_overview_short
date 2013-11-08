@@ -62,25 +62,31 @@ Concepts:
 
 ### Week 4: Handling Raw Data
 
-Complex data objects like texts, musical scores and images can be segmented into units in many different ways. But what are the relevant units for your analysis? For instance, what are the relevant units for analysing a painting? What aspects of images can be identified and segmented into individual units of data? Can we identify objects? Individual brush strokes? 
+Overview:
+- complex objects (texts, images, audio and video) as data.
+- working `unstructured' data
+- segmenting and identifying relevant units in text and images
 
-- Parsing and filtering texts and images
-- Regular expressions for text analysis
-- Concepts: data units, segmenting `unstructured' data
-- Continue with the workflow
+Concepts:
+- data units
+- Regular expressions 
+- ...
 
 ### Week 5: Exploring Metadata
 
-- Steps 4, 5 & 6: mining, representing, refining
-- Once the data is in manageable form, we can start exploring
-- Hunting for stories, bring out meaningful information 
-- Concepts: data facets, summarising, aggregating, 
-- Continue with the workflow
+Overview:
+- mining for things of interest: the building blocks for narratives
+- choosing a visual representation
+- refining data preparation and visual representation
+
+Concepts: 
+- mining, refining, representing, patterns, data facets, summarising, aggregating, exploration, discovery, serendipity
 
 ### Week 6: Exploring Raw Data
 
 How do you choose a visual model that allows you to explore your data and discover areas of interest? How do you choose a representative visual model that supports the story that you want to tell?
 
+- feedback: adjusting previous
 - Steps 4, 5 & 6: mining, representing, refining
 - Concepts: clustering, sorting, ordering, visual models, patterns, trees, networks
 - Continue with the workflow
