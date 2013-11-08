@@ -34,19 +34,29 @@ Concepts:
 
 ### Week 2: Acquiring data
 
-We focus on online sources of data. What data is available? What data is relevant to a particular research question?
-- Step 1 of 7: gathering data
-- Evaluating data sources and data sets. When is data appropriate? When is it representative?
-- Concepts: data objects, data formats, data dumps, APIs, queries, iteration, sampling
-- Continue with the workflow
+Overview:
+- Availability and relevance of data sources
+- Obtaining data from sources: data dumps, API's, queries
+- Evaluating data: appropriateness and representativeness
+
+Concepts:
+- data objects
+- data formats
+- data dumps, APIs, queries, iteration
+- selecting and sampling
 
 ### Week 3: Handling Metadata
 
-Any type of object or event can be described. Such descriptions contain data about data, also known as metadata. Metadata is relevant to all humanities disciplines, as well as for any other discipline. 
-- Steps 2 & 3 of 7: parsing and filtering
-- Filtering metadata to focus on what is relevant to your research and the story you want to tell.
-- Parsing data to create meaning
-- Concepts: data storage, data formats, JSON, XML, segmenting, identifying
+Overview:
+- Humanities material and metadata
+- Metadata: consistency, completeness and subjectivity
+- Parsing: identifying individual units of data, adding meaning to data
+- Filtering: removing irrelevant data, 
+
+Concepts: 
+- data storage
+- data formats: JSON, XML
+- segmentation, identification
 - getting data in a manageable, comprehensible form
 - Continue with the workflow
 
