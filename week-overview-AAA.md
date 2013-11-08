@@ -1,6 +1,6 @@
 # From Object to Data
 
-## Session 1: Objects as Data Points
+## Module 1: Objects as Data Points
 
 ### Concepts
 data-oriented research, hypothesis, data types, static data, streaming data, real-time data
@@ -11,7 +11,7 @@ data-oriented research, hypothesis, data types, static data, streaming data, rea
 + research workflow
 
 
-## Session 2: Data Acquisition 
+## Module 2: Data Acquisition 
 
 ## Concepts
 data objects, data format, dumps, APIs, queries, iteration, selecting, sampling
@@ -24,8 +24,8 @@ data objects, data format, dumps, APIs, queries, iteration, selecting, sampling
 + evaluating data
 
 
-## Session 3: Handling Metadata
-## Session 4: Handling Raw Data
+## Module 3: Handling Metadata
+## Module 4: Handling Raw Data
 
 ### Concepts
 data formats, storage, segmentation, identification, parsing, metadata, filtering, structured data, unstructured data, complex objects, data units, regular expressions
@@ -40,8 +40,8 @@ data formats, storage, segmentation, identification, parsing, metadata, filterin
 + segmenting and identifying relevant units in text and images
 
 
-## Session 5: Exploring Metadata
-## Session 6: Exploring Raw Data
+## Module 5: Exploring Metadata
+## Module 6: Exploring Raw Data
 
 ### Concepts
 mining, refining, representation, patterns, facets, aggregating, exploration, discovery, serendipity
@@ -54,16 +54,23 @@ mining, refining, representation, patterns, facets, aggregating, exploration, di
 + visual representation
 
 
-## Session 7: Interacting with Data
+## Module 7: Interacting with Data
 
-## Concepts
+### Concepts
+interaction, perspectives, scale, zooming, areas of interest
+
+### Overview
++ interacting with data visualisations
++ telling stories with data
 
 
-+ Step 7: interacting with data, as a researcher and as a user.
-+ How can interacting with data bring out the story that you want to tell?
-+ Concepts: ...
-+ Continue with the workflow
+## Module 8: Discussion 
 
-### Session 8: Presenting Data
+### Concepts
+algorithms, repeatability, interpretation
 
-+ Concepts:
+### Overview
++ research recipes and repetition
++ data interpretation and hermeneutics
+
+
